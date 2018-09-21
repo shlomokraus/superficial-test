@@ -1,9 +1,2 @@
-class HelloWorld {
-
-    render() {
-        return true;
-
-
-        
-    }
-}
+Y2xhc3MgSGVsbG9Xb3JsZCB7CgogICAgcmVuZGVyKCkgewogICAgICAgIHJl
+dHVybiB0cnVlOwogICAgfQp9
