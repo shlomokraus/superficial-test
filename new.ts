@@ -1,1 +1,2 @@
-Y29uc29sZQoubG9nKCJIRUxMTyIp
+console
+.log("HELLO")
