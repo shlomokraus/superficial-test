@@ -1,6 +1,8 @@
 export class Test {
 
     method() {
-        return true;
+
+
+        return true
     }
 }
