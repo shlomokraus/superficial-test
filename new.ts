@@ -1,2 +1,1 @@
-console
-.log("HELLO")
+Y29uc29sZQoubG9nKCJIRUxMTyIp
