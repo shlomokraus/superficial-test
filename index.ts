@@ -1,9 +1,12 @@
 class HelloWorld {
 
     render() {
-        return false;
+        return true;
 
 
 
+
+        
+        
     }
 }
