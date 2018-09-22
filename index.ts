@@ -4,10 +4,3 @@ class HelloWorld {
         return true;
     }
 }
-
-
-
-
-
-
-
