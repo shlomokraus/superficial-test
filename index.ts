@@ -1,16 +1,6 @@
-
-
-
-
-class HelloWorld
- {
+class HelloWorld {
 
     render() {
-        return true
+        return true;
     }
-
-
-
 }
-
-
